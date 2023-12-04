@@ -171,7 +171,7 @@
         
         <div class="clear"></div>
 
-        <section id="Education">
+        <section id="Achievements">
         <div class="sectionTitle">
           <h1>Achievements</h1>
         </div>
@@ -196,7 +196,18 @@
             <a href="https://app.diplomasafe.com/en-US/diploma/dfbf808de0d5a3128c13cfd8ce8aa332c01c5cb86">Certificate</a>
             
           </article>
-
+          
+          <section>
+            <article>
+              <div class="sectionTitle">
+                <h1>Reflections & Learnings </h1>
+              </div>
+    
+              <div class="sectionContent">
+                <p>This course Managing Enterprise Servers helped me a lot to grow as a future System Administrator, because of this course my goal to my future work become clear. This course helped enhanced my skills and knowledge in using Linux especially creating a playbook and implement roles. In conclusion this course is very fun to me even though it's hard i still manage to finished all the activities and all the skills exam being asked.</p>
+              </div>
+            </article>
+          
         </div>
         <div class="clear"></div>
       </section>
